@@ -1,0 +1,20 @@
+{
+  "name": "manual-sonido-lapen",
+  "version": "1.0.0",
+  "description": "Aplicación de gestión y aprendizaje para equipos de sonido de LAPEN",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Servidor en desarrollo próximamente'",
+    "start": "echo 'Aplicación iniciada'"
+  },
+  "keywords": [
+    "sonido",
+    "audio",
+    "lapan",
+    "iglesia",
+    "campamento",
+    "manual"
+  ],
+  "author": "LAPEN",
+  "license": "MIT"
+}
